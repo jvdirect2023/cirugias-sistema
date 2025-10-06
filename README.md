@@ -1,2 +1,1 @@
-# cirugias-sistema
-Gestión y asignación de cirugías – Semana 0
+probar_sms "Conf. ProgQx Obs.ABC: 26.08.2025 09:30/ (G) COLONOSCOPIA 1.5hrs/ BERMUDEZ OCHOA MANUEL G/ PODOLSKY RAPOPORT ISRAE/ Pac PLACENCIA ZAM 41/"
